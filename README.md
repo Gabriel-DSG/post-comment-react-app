@@ -1,6 +1,6 @@
 # Post Comment React App
 
-Este repositório contém um aplicativo React simples de comentário de post.
+Este repositório contém um aplicativo React simples de comentário de post, pertence a LumeStack, e foi criado somente para fins de estudos.
 
 ### Pré-requisitos
 
